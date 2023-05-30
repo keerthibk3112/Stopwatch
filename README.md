@@ -1,2 +1,2 @@
 # Stopwatch
-html css javascript code for stopwatch
+html css javascript code for Timer/stopwatch
